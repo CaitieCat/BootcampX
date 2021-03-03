@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CaitieCat/BootcampX/issues"
   },
-  "homepage": "https://github.com/CaitieCat/BootcampX#readme"
+  "homepage": "https://github.com/CaitieCat/BootcampX#readme",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
 }
